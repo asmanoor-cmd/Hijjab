@@ -1,0 +1,27 @@
+.cart-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.cart-item {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.cart-image {
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.empty-cart {
+  color: #666;
+  font-style: italic;
+  margin-top: 1rem;
+}

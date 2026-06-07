@@ -1,0 +1,11 @@
+.app-container {
+  font-family: "Poppins", sans-serif;
+  background-color: #fffaf7;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  margin: 40px 0;
+}
